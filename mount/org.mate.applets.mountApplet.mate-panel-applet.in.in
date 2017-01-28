@@ -1,0 +1,10 @@
+[Applet Factory]
+Id=mountAppletFactory
+Location=@LOCATION@
+_Name=mount Factory
+_Description=mount Factory
+
+[mountApplet]
+_Name=Mount
+_Description=Mount
+Icon=mate-panel-mount

@@ -1,0 +1,10 @@
+[Applet Factory]
+Id=buttonAppletFactory
+Location=@LOCATION@
+_Name=button Factory
+_Description=button Factory
+
+[buttonApplet]
+_Name=Button
+_Description=Button
+Icon=mate-panel-button

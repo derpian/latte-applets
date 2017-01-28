@@ -1,0 +1,10 @@
+[Applet Factory]
+Id=aclockAppletFactory
+Location=@LOCATION@
+_Name=aclock Factory
+_Description=aclock Factory
+
+[1clockApplet]
+_Name=Clock
+_Description=Clock
+Icon=mate-panel-clock
